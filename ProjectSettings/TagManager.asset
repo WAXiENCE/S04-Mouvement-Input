@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Poisson
+  - Poisson1
+  - Poisson2
+  - Poisson3
   layers:
   - Default
   - TransparentFX
